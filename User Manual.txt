@@ -1,0 +1,16 @@
+***User Manual***
+
+Step 1:
+	Download the makefile and all .hpp and .cpp files.
+
+Step 2:
+	In the directory where the downloaded files are located, run the command "make clean" to ensure there are no extra files in the directory.
+
+Step 3:
+	In the directory where the downloaded files are located, run the command "make" to build the project.
+
+Step 4:
+	In the directory where the downloaded files are located, run the command "./run" to execute the program.
+
+Step 5(Optional):
+	Repeat step 2 and 3. In the directory where the downloaded files are located, run the command "valgrind ./run" to execute the program to see there are no memory leaks.
